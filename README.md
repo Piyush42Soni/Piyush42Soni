@@ -33,4 +33,3 @@
   <img align="left" alt="Piyush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=piyush42soni&&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=daf7dc&bg_color=151515" />
 
 </details>
-<img src="https://github-readme-stats.vercel.app/api?username=piyush42soni&&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=daf7dc&bg_color=151515">
