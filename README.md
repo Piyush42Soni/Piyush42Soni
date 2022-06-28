@@ -1,7 +1,7 @@
 ### Hi there, I'm Piyush Soni👋 
 
 - 🏫 I am a Second Year B Tech Student at Netaji Subhas University of Technology
-- 📗 I am currently working on Android App development
+- 📗 I am currently working on Android App development and Machine Learning
 - 🧑‍💻 I am a competitive programmer
 
 
@@ -22,6 +22,7 @@
 <img align="left" alt="Anaconda" width="26px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/>
 <img align="left" alt="Cplusplus" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vf0a37f79faad17a4ba7ad32be120d7095e49b17f56e183e15bf9d3819216d0c9/firebase/images/touchicon-180.png"/>
+<img align="left" alt="Firebase" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2d%2FTensorflow_logo.svg%2F1200px-Tensorflow_logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATensorflow_logo.svg&tbnid=Z5TH1BmtgAI47M&vet=12ahUKEwjgsaq99M_4AhWULrcAHR9_BgkQMygAegUIARC1AQ..i&docid=nSG5ArzIFHqNkM&w=1200&h=1283&q=tensorflow%20symbol%20svg&ved=2ahUKEwjgsaq99M_4AhWULrcAHR9_BgkQMygAegUIARC1AQ"/>
 <br />
 <br />
 
