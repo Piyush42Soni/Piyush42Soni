@@ -1,7 +1,7 @@
 ### Hi there, I'm Piyush Soni👋 
 
 - 🏫 I am a Third Year B Tech Student at Netaji Subhas University of Technology
-- 📗 I am currently working on Android App development and Machine Learning
+- 📗 I am currently working on Android App development and Deep Learning
 - 🧑‍💻 I am a competitive programmer
 
 
