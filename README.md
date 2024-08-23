@@ -1,7 +1,7 @@
 ### Hi there, I'm Piyush Soni👋 
 
-- 🏫 I am a Fourth Year B Tech Student at Netaji Subhas University of Technology
-- 📗 I am currently working on Android App development and Deep Learning
+- 🏫 I am a B.Tech graduate in Electronics and Communication Engineering with a specialization in AI and ML at Netaji Subhas University of Technology
+- 📗 I enjoy creating AI-powered Android applications
 - 🧑‍💻 I am a competitive programmer
 
 
