@@ -34,3 +34,14 @@
   <img align="left" alt="Piyush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=piyush42soni&&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=daf7dc&bg_color=151515" />
 
 </details>
+<br />
+<br />
+
+---
+
+<details>
+  <summary>:bar_chart: Language Stats</summary>
+
+  <img align="center" alt="Piyush's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush42soni&theme=merko" />
+
+</details>
