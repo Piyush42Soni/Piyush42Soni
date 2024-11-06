@@ -1,5 +1,5 @@
 ### Hi there, I'm Piyush Soni👋 
-
+## I'm a Data Engineer, and enjoy working on open source issues to upskill myself.
 - 🏫 I am a B.Tech graduate in Electronics and Communication Engineering with AI and ML at Netaji Subhas University of Technology
 - 📗 I enjoy creating AI-powered Android applications
 - 🧑‍💻 I am a competitive programmer
